@@ -13,3 +13,5 @@ nombre VARCHAR(20) ,
   ("chau4321",2,5,"Emma","septiembre","Marcone", "marzo", false) 	
 
   SELECT nombre,apellido FROM sistema.usuarios (consulta de nombres y apellidos)
+
+  SELECT *FROM sistema.usuarios (consulta todos las columnas)
