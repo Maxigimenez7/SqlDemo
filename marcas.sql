@@ -1,0 +1,1 @@
+INSERT INTO sistema.marcas (nombre) VALUES ("lenovo") , ("samsung") , ("hp") , ("enova") , ("asus")
