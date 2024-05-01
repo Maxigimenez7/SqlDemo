@@ -1,0 +1,1 @@
+INSERT INTO sistema.sistemas_operativos (nombre) VALUES ("linux"),("windows"),("ios")
