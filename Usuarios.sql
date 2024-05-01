@@ -11,3 +11,5 @@ nombre VARCHAR(20) ,
  , ("AaWo87822",5,2,"Mauro","Mayo","Ortiz","diciembte",false),
  ("hola5578",3,4,"Matias","febrero","Mendez","julio",true),
   ("chau4321",2,5,"Emma","septiembre","Marcone", "marzo", false) 	
+
+  SELECT nombre,apellido FROM sistema.usuarios (consulta de nombres y apellidos)
