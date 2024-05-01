@@ -1,0 +1,1 @@
+CREATE TABLE sistema.sucursales (id INT PRIMARY KEY NOT NULL AUTO_INCREMENT , direccion VARCHAR(20))
